@@ -1,0 +1,92 @@
+html{
+  background-color: #0c1317;
+  
+}
+
+.inicio{
+  color: white;
+   justify-content: space-between; 
+}
+
+
+.dots{
+  background-color:transparent;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  margin-left: 1790px;
+  top: -2px;
+  position: relative;
+  
+}
+
+.visualizado {
+  background-color: transparent;
+  border: none;
+}
+
+.naovisualizado {
+  background-color: transparent;
+  border: none;
+}
+
+.primeira{
+  
+  
+}
+
+.segunda {
+ 
+}
+
+.mensagem1{
+  color: white;
+  background-color: #455a64;
+   padding: 13px;
+  border-radius: 13px;
+  display: flex;
+  justify-content: space-between;
+  padding: 13px;
+  max-width: 50px;
+  margin-bottom: 7px;
+  
+}
+.mensagem2{
+  color: white;
+  background-color:#455a64;
+  padding-left: 25px;
+  padding-right:19px;
+  border-radius: 13px;
+  display: flex;
+  justify-content: space-between;
+  padding: 13px;
+  max-width: 170px;
+  
+}
+
+.mensagem3{
+  color: white;
+  background-color:#02a698;
+   padding: 13px;
+  border-radius: 13px;
+  margin-left: 1650px;
+  display: flex;
+  max-width:200px;
+  margin-bottom: 7px;
+}
+
+.mensagem4{
+  color: white;
+  background-color:#02a698;
+  padding: 13px;
+  border-radius: 13px;
+  display: flex;
+  max-width:300px;
+  margin-left: 1585px;
+  
+}
+
+hr{
+ border: -3px dotted white; 
+} 
